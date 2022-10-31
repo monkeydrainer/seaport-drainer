@@ -1,4 +1,4 @@
-# Welcome! DM me on Telegram: (@crypto_scem)[https://t.me/crypto_scem] for Installation Help `
+# Welcome! 📩 DM me on Telegram: [@crypto_scem](https://t.me/crypto_scem) for Installation Help.
 
 ---
 
